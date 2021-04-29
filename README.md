@@ -13,7 +13,7 @@
     <img src="https://github.com/Aidan182003/Music-is-our-life2/blob/main/%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%B8.jpg" width="300" height="400">
     <h1>Роль музыки в жизни человека имеет гораздо большее значение, чем мы себе представляем. </h1>
     https://github.com/Aidan182003/Music-is-our-life
-<footer>
+       <footer>
      Дарья Чугунова 9Б
         </footer>
     <html>
